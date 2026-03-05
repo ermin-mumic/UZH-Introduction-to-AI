@@ -1,0 +1,22 @@
+# Prerequisites
+*.py[cod]
+__pycache__/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Java / Build Tools
+target/
+*.class
+.gradle/
+build/
+
+# Data and Env (Important for privacy!)
+.env
+*.log
+*.json
