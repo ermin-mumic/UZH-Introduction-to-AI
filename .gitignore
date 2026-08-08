@@ -16,7 +16,7 @@ target/
 .gradle/
 build/
 
-# Data and Env (Important for privacy!)
+# Data and Env 
 .env
 *.log
 *.json
